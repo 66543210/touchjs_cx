@@ -1,0 +1,20 @@
+{
+  "name": "touchjs_cx",
+  "version": "0.2.16",
+  "description": "fix some problem with touch.js",
+  "main": "touch.js",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-uglify": "~0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "spm": {
+    "main": "touch.js"
+  }
+}
